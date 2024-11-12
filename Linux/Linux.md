@@ -10,6 +10,7 @@
 - OpenSuse
 
 ### Debian Based Distro's
+
 - Kneppix
 - Pardus
 - Raspberry pi OS
@@ -19,6 +20,7 @@
 
 
 ### Ubuntu Based Distro's
+
 - Ubuntu
 - Kubuntu
 - Xubuntu
@@ -29,6 +31,7 @@
 - Zorin OS
 
 ### Arch Based Distro's
+
 - Arch Linux
 - Manjaro
 - Garuda Linux
