@@ -46,7 +46,7 @@
   
 ---
 
-## Why should you use Linux?
+## Why should you use Linux ?
 
 1. For your Privacy
 2. Security Measures
