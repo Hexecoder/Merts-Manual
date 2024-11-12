@@ -56,3 +56,58 @@
 6. Tree Rapid File System
 7. Using Monolithic Kernel
 8. Uses less space
+
+
+## Packet Managers
+
+- DNF
+- Pacman
+- Apt
+
+## Desktop Environments
+
+- XFCE
+- GNOME
+- KDE
+- Cinnamon
+- Hyperland
+
+## Linux Directory Structure
+
+- /bin
+
+- /etc
+  
+- /home
+
+- /opt
+
+- /tmp
+
+- /usr
+
+- /var
+
+- /boot
+
+- /dev
+
+- /lib
+
+- /lost+found
+
+- /media
+
+- /mnt
+
+- /proc
+
+- /run
+
+- /sbin
+
+- /srv
+
+- /sys
+
+- /root
