@@ -75,19 +75,21 @@
 ## Linux Directory Structure
 
 - /bin
+Binary and Executable Programs
 
 - /etc
-  
-- /home
+System Configuration files etc(dns config)
 
+- /home
+Current Directory
 - /opt
 
 - /tmp
-
+Temporary space
 - /usr
 
 - /var
-
+Log files
 - /boot
 
 - /dev
@@ -128,3 +130,25 @@
 - Install tlp-ui 
 - Install Bleachbit and clean your system
 - Install Anarchy CPP
+
+## File Permissions
+
+r 4
+w 2
+x 1
+
+first digit file owner 
+second digit group owner
+third digit other users
+
+777 has all permissions read write execute
+
+chmod 7 7 7
+
+# Dictionary
+
+- GUI : Graphical User Interface
+- CLI : Command Line Interface
+- TUI : Terminal User Interface
+- Display Server : Display Server Protocol
+- Bash: Installed software over terminal

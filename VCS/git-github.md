@@ -137,7 +137,7 @@ Belirtilen isimdeki branch'a geçiş yapar.
 
 ### Bir commit geriye gitmek için
 
-git reset --hard HEAD~1
+git reset --hard HEAD~1 (!!!)
 
 eğer ki bunu github üzerinde de düzeltmek istiyorsak
 
@@ -145,3 +145,10 @@ git push origin +main
 
 ## Faydalı bulabileceğiniz linkler
 [GitHub'da son yapılan yanlış commit nasıl geri alınır?](https://www.youtube.com/watch?v=RG7dJln5y0Y)
+
+
+git push -u origin main
+
+git remote add origin cleared
+
+git branch -M main
