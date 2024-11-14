@@ -111,3 +111,20 @@
 - /sys
 
 - /root
+
+## Things to do after Linux installation
+
+- Update your system
+- Graphics Drivers
+- Install Flatpak
+- Install Distrobox
+- Change the mirrors
+- Backup Settings
+- Install Steam, Heroic, Lutris, Proton up QT (optional)
+- Install Bottles
+- Install Codec
+- Install Firewall
+- Install apps from ninitearch(https://ninitarch.vercel.app/)
+- Install tlp-ui 
+- Install Bleachbit and clean your system
+- Install Anarchy CPP
