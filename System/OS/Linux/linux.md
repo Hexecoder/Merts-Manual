@@ -75,17 +75,17 @@
 ## Linux Directory Structure
 
 - /bin
-Binary and Executable Programs
+Binary and Executable Programs.
 
 - /etc
-System Configuration files etc(dns config)
+System Configuration files etc(dns config).
 
 - /home
-Current Directory
+Current Directory.
 - /opt
 
 - /tmp
-Temporary space
+Temporary space.
 - /usr
 
 - /var
