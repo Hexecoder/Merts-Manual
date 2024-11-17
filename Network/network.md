@@ -10,7 +10,7 @@
 
 - ARP
 
-## IANA
+## IANA (Internet Assigned Number)
 
 ## ARPA
 

@@ -197,7 +197,7 @@ openvpn — config client.ovpn: VPN sunucusuna bağlantı sağlar
 
 sensors : Donanım parçalaırnın ısılarını verir.
 
-gcc -o output input.c : C kodunu derler
+gcc -o output input.c : C kodunu derler.
 
 rdesktop x.x.x.x : RDP bağlantısını sağlar
 
