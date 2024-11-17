@@ -4,11 +4,11 @@
 
 - IP
 
-- DNS
+- DNS (Domain Name Server)
 
-- DHCP
+- DHCP ()
 
-- ARP
+- ARP (Address Resulation Protocol)
 
 ## IANA (Internet Assigned Number)
 
