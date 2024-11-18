@@ -1,3 +1,3 @@
 # Merts-Manual
 
-Everything
+Everything whatever you need
