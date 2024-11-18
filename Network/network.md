@@ -6,7 +6,7 @@
 
 - DNS (Domain Name Server)
 
-- DHCP ()
+- DHCP (Dymamic Host Control Protocol)
 
 - ARP (Address Resulation Protocol)
 
