@@ -121,7 +121,7 @@ Bu komut ile, bir önceki aşamada hazırlanan değişiklikler, bir mesaj ile bi
 
 Bu komut ile, yerelde hazırlanıp kaydedilen değişiklikler, GitHub'daki repository'e gönderilir.
 
-Takım çalışmalarında branch ismi önemlidir. Takımın her bir üyesi, kendi ismiyle yahut üzerinde çalıştığı özelliği açıklayıcı bir branch oluşturmalıdır. Bu branch'a kaydedilen değişiklikler bir `pull request` oluşturularak master branch ile birleştirilmek üzere takım liderinin onayına sunulmalıdır. Böylece hatalı (buggy) kodların gözden geçirilmeden ana ürün olarak sunulmasının önüne geçilecektir.
+Takım çalışmalarında branch ismi önemlidir... Takımın her bir üyesi, kendi ismiyle yahut üzerinde çalıştığı özelliği açıklayıcı bir branch oluşturmalıdır. Bu branch'a kaydedilen değişiklikler bir `pull request` oluşturularak master branch ile birleştirilmek üzere takım liderinin onayına sunulmalıdır. Böylece hatalı (buggy) kodların gözden geçirilmeden ana ürün olarak sunulmasının önüne geçilecektir.
 
     NOT: İlk push işlemini gerçekleştirdiğinizde, bir pencere açılacak ve buradan GitHub'a giriş yapmanız istenecektir.
 
