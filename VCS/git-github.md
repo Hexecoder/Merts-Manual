@@ -7,7 +7,7 @@ Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyl
 
 ## Git nedir?
 
-Git bir versiyon kontrol sistemidir.
+Git bir versiyon kontrol sistemidir...
 
 Peki nedir bu versiyon kontrol sistemi ?
 
