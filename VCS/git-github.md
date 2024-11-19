@@ -50,7 +50,7 @@ Daha ayrıntılı komutlar için Google'da `github commands` araması yapabilirs
 
 ## Sık Kullanılan GitHub Terimleri
 
-### Repository
+### Repository 
 
 Kelime anlamı: depo, veri deposu, veri havuzu.
 
