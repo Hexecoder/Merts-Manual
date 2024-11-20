@@ -2,8 +2,16 @@
 
 Internet
 
+WAN(Wide Area Network)
+
+MAN(Metropolitian Area Network)
+
 LAN(Local Area Network)
-WAN()
+
+PAN(Platform Area Network)
+
+
+
 
 ## Protocols
 
