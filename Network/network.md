@@ -1,5 +1,10 @@
 # Network
 
+Internet
+
+LAN(Local Area Network)
+WAN()
+
 ## Protocols
 
 - IP
