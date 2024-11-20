@@ -1,16 +1,16 @@
 # Network
 
-## Internet(Inter Network)
+### Internet(Inter Network)
 
-WAN(Wide Area Network)
+### WAN(Wide Area Network)
 
-RAN(Radio Access Network)
+### RAN(Radio Access Network)
 
-MAN(Metropolitian Area Network)
+### MAN(Metropolitian Area Network)
 
-CAN(Campus Area Network)
+### CAN(Campus Area Network)
 
-LAN(Local Area Network)
+### LAN(Local Area Network)
 
 
 
