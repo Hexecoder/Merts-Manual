@@ -11,7 +11,11 @@
 ### CAN(Campus Area Network)
 
 ### LAN(Local Area Network)
+We’re confident that you’ve heard of these types of networks before – LANs are the most frequently discussed networks, one of the most common, one of the most original and one of the simplest types of networks. LANs connect groups of computers and low-voltage devices together across short distances (within a building or between a group of two or three buildings in close proximity to each other) to share information and resources. Enterprises typically manage and maintain LANs.
 
+ 
+
+Using routers, LANs can connect to wide area networks (WANs, explained below) to rapidly and safely transfer data.
 
 
 PAN(Platform Area Network)
