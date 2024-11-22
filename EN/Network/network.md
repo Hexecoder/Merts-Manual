@@ -22,7 +22,7 @@ We’re confident that you’ve heard of these types of networks before – LANs
 Using routers, LANs can connect to wide area networks (WANs, explained below) to rapidly and safely transfer data.
 
 
-PAN(Platform Area Network)
+PAN(Platform Area Network).
 The smallest and most basic type of network, a PAN is made up of a wireless modem, a computer or two, phones, printers, tablets, etc., and revolves around one person in one building. These types of networks are typically found in small offices or residences, and are managed by one person or organization from a single device.
 
 
