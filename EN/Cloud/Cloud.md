@@ -16,7 +16,7 @@ elastic machine
 
 #### Cloudfront
 
-CDN
+CDN (Content Delivery Network)
 
 
 Clear Cache
