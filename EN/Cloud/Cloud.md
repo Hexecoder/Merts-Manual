@@ -6,12 +6,17 @@
 
 
 #### S3
+Its a magic bucket
 
 #### ECS
 
 #### EC2
 
+elastic machine
+
 #### Cloudfront
+
+CDN
 
 
 Clear Cache
