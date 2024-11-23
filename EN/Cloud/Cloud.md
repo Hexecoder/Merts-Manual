@@ -14,6 +14,13 @@ Its a magic bucket
 
 elastic machine
 
+#### Lambda
+API
+
+#### DynamoDB
+
+Database
+
 #### Cloudfront
 
 CDN (Content Delivery Network)
