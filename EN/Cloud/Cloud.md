@@ -2,7 +2,7 @@
 
 ## Cloud Providers
 
-### AWS
+### AWS (Amazon Web Services)
 
 
 #### S3
