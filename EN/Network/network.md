@@ -34,8 +34,8 @@ A LAN based on Wi-Fi wireless network technology.
 The smallest and most basic type of network, a PAN is made up of a wireless modem, a computer or two, phones, printers, tablets, etc., and revolves around one person in one building. These types of networks are typically found in small offices or residences, and are managed by one person or organization from a single device.
 
 
-BAN(Body Area Network)
-
+### BAN(Body Area Network)
+A Body Area Network (BAN) is a network of wearable computing devices. BANs are primarily used for medical monitoring and healthcare delivery, enabling wireless communication between sensors and computing devices attached to the human body.
 
 
 ## Protocols
