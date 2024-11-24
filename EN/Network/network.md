@@ -3,7 +3,13 @@
 ### Internet(Inter Network)
 .
 ### WAN(Wide Area Network)
-.
+
+Slightly more complex than a LAN, a WAN connects computers together across longer physical distances. This allows computers and low-voltage devices to be remotely connected to each other over one large network to communicate even when they’re miles apart.
+
+ 
+
+The Internet is the most basic example of a WAN, connecting all computers together around the world. Because of a WAN’s vast reach, it is typically owned and maintained by multiple administrators or the public.
+
 ### RAN(Radio Access Network)
 
 ### MAN(Metropolitian Area Network)
@@ -22,7 +28,7 @@ We’re confident that you’ve heard of these types of networks before – LANs
 Using routers, LANs can connect to wide area networks (WANs, explained below) to rapidly and safely transfer data.
 
 
-PAN(Platform Area Network).
+### PAN(Platform Area Network).
 The smallest and most basic type of network, a PAN is made up of a wireless modem, a computer or two, phones, printers, tablets, etc., and revolves around one person in one building. These types of networks are typically found in small offices or residences, and are managed by one person or organization from a single device.
 
 
