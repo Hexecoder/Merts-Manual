@@ -48,8 +48,6 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 - ARP (Address Resulation Protocol)
 
-- SPN()
-
 - STP(Spanning Tree Protocol)
 
 ## IANA (Internet Assigned Number)
