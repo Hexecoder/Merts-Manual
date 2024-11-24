@@ -40,7 +40,7 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 ## Protocols
 
-- IP
+- IP (Internet Protocol)
 
 - DNS (Domain Name Server)
 
