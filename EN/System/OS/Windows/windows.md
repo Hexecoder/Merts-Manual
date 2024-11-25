@@ -6,4 +6,12 @@ It depends with hardware
 
 shell commands
 
-ping 1.1.1.1
+networking commands
+
+ipconfig : 
+
+ping 1.1.1.1 : 
+
+tracert 8.8.8.8 : 
+
+ipconfig /flushdns : 
