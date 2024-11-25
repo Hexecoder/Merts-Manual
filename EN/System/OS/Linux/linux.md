@@ -90,8 +90,9 @@ Temporary space.
 
 - /var
 Log files
-- /boot
 
+- /boot
+boot files
 - /dev
 
 - /lib
