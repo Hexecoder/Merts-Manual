@@ -8,7 +8,7 @@ shell commands
 
 networking commands
 
-ipconfig : 
+ipconfig : It gives NIC(Network Interface Card) Properties we can see the our ip address
 
 ping 1.1.1.1 : 
 
