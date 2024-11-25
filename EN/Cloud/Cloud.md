@@ -19,12 +19,11 @@ API
 
 #### DynamoDB
 
-Database
+DynamoDB is a Database service
 
 #### Cloudfront
 
-CDN (Content Delivery Network)
-
+Cloudfront is a CDN (Content Delivery Network)
 
 Clear Cache
 
