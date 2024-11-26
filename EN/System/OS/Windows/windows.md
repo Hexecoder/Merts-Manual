@@ -6,6 +6,8 @@ It depends with hardware
 
 shell commands
 
+pwd : print working directory it shows current directory 
+
 networking commands
 
 ipconfig : It gives NIC(Network Interface Card) Properties we can see the our ip address
