@@ -14,4 +14,4 @@ ping 1.1.1.1 : It send ICMP packet to receiver
 
 tracert 8.8.8.8 : 
 
-ipconfig /flushdns : 
+ipconfig /flushdns : It clears dns cache
