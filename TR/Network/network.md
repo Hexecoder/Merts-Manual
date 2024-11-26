@@ -42,7 +42,13 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 - IP (Internet Protocol)
 
+
+
 - DNS (Domain Name Server)
+
+Alan adı sunucusdur
+
+alan adlarını ip adreslerine dönüştürmede görevlidir
 
 - DHCP (Dymamic Host Control Protocol)
 
