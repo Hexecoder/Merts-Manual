@@ -48,11 +48,13 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 Alan adı sunucusdur
 
-alan adlarını ip adreslerine dönüştürmede görevlidir
+alan adlarını ip adreslerine dönüştürmede görevlidir.
 
 - DHCP (Dymamic Host Control Protocol)
 
 - ARP (Address Resulation Protocol)
+
+maclerle ip adreslerini eşler
 
 - STP(Spanning Tree Protocol)
 
