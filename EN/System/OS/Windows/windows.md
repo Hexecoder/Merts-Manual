@@ -6,6 +6,8 @@ It depends with hardware
 
 shell commands
 
+cd : change directory
+
 pwd : print working directory it shows current directory 
 
 networking commands
