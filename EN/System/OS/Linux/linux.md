@@ -148,6 +148,12 @@ third digit other users
 
 chmod 7 7 7
 
+
+# Troubleshooting
+
+Trim problem when you have encrypted disk
+
+
 # Dictionary
 
 - GUI : Graphical User Interface
