@@ -161,7 +161,8 @@ if it is off your r/w speed could be down
 
 1st we have to control is trim on ?
 you can use that command "systemctl status fstrim.socket or time"
-2nd 
+2nd we are going to ./etc/crypttab
+
 
 
 # Dictionary
