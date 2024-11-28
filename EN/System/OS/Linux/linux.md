@@ -153,6 +153,15 @@ chmod 7 7 7
 
 Trim problem when you have encrypted disk
 
+if you have encrypted disk your trim is gonna be off
+
+if it is off your r/w speed could be down
+
+- Solve
+
+1st we have to control is trim on ?
+2nd 
+
 
 # Dictionary
 
