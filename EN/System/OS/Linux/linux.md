@@ -160,6 +160,7 @@ if it is off your r/w speed could be down
 - Solve
 
 1st we have to control is trim on ?
+you can use that command "systemctl status fstrim.socket or time"
 2nd 
 
 
