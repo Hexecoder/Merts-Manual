@@ -42,6 +42,8 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 - IP (Internet Protocol)
 
+its the mean of all these numbers 192.168.1.1
+
 - DNS (Domain Name Server)
 
 - DHCP (Dymamic Host Control Protocol)
