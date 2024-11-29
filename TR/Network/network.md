@@ -69,3 +69,5 @@ maclerle ip adreslerini eşler
 ## InterNIC
 
 ## ICANN
+
+Alan adlarının yetkili mercisi
