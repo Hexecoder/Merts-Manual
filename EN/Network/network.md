@@ -11,6 +11,7 @@ Slightly more complex than a LAN, a WAN connects computers together across longe
 The Internet is the most basic example of a WAN, connecting all computers together around the world. Because of a WAN’s vast reach, it is typically owned and maintained by multiple administrators or the public.
 
 ### RAN(Radio Access Network)
+.
 
 ### MAN(Metropolitian Area Network)
 
