@@ -54,7 +54,7 @@ C
 
 D
 
-E 
+E Experimental
 
 - DNS (Domain Name Server)
 
