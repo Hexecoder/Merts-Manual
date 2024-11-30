@@ -10,7 +10,7 @@ We can use more machine on a device
 
 VMware is a virtualization technology
 
-it has seperated nic card
+it has seperated nic card.
 
 we can seperate the storage unit
 
