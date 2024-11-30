@@ -56,6 +56,9 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 ## NIC
 
+
 ## InterNIC
 
 ## ICANN
+
+Internet Corporation for Assigned Names and Numbers (ICANN)
