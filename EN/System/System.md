@@ -14,6 +14,7 @@ it has seperated nic card.
 
 we can seperate the storage unit.
 
+
 ### Proxmox
 
 
