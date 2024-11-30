@@ -135,7 +135,9 @@ boot files
 ## File Permissions
 
 r 4
+
 w 2
+
 x 1
 
 first digit file owner 
@@ -145,6 +147,30 @@ third digit other users
 777 has all permissions read write execute
 
 chmod 7 7 7
+
+
+# Troubleshooting
+
+Trim problem when you have encrypted disk
+
+if you have encrypted disk your trim is gonna be off
+
+if it is off your r/w speed could be down
+
+- Solve
+
+1st we have to control is trim on ?
+
+you can use that command "systemctl status fstrim.socket or time" .
+
+2nd we are going to ./etc/crypttab
+
+3rd we are going to ./etc/fstab
+
+finally we are going to bootloader settings than we adding allow disable
+
+
+
 
 # Dictionary
 

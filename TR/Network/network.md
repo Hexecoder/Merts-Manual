@@ -54,6 +54,8 @@ alan adlarını ip adreslerine dönüştürmede görevlidir.
 
 - ARP (Address Resulation Protocol)
 
+Mac adresleri ile ip adreslerini eşler
+
 maclerle ip adreslerini eşler
 
 - STP(Spanning Tree Protocol)
@@ -67,3 +69,5 @@ maclerle ip adreslerini eşler
 ## InterNIC
 
 ## ICANN
+
+Alan adlarının yetkili mercisi

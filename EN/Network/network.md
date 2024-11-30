@@ -11,6 +11,7 @@ Slightly more complex than a LAN, a WAN connects computers together across longe
 The Internet is the most basic example of a WAN, connecting all computers together around the world. Because of a WAN’s vast reach, it is typically owned and maintained by multiple administrators or the public.
 
 ### RAN(Radio Access Network)
+.
 
 ### MAN(Metropolitian Area Network)
 
@@ -42,7 +43,23 @@ A Body Area Network (BAN) is a network of wearable computing devices. BANs are p
 
 - IP (Internet Protocol)
 
+its the mean of all these numbers 192.168.1.1
+
+IP Classes
+
+A
+
+B
+
+C
+
+D
+
+E Experimental
+
 - DNS (Domain Name Server)
+
+
 
 - DHCP (Dymamic Host Control Protocol)
 
