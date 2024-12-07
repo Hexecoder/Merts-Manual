@@ -1,6 +1,6 @@
 # Network
 
-### Internet(Inter Network)...
+### Internet(Inter Network)..
 .
 ### WAN(Wide Area Network)
 
